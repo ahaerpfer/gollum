@@ -11,6 +11,7 @@ RUN bundle install
 
 RUN gem install \
     asciidoctor \
+    commonmarker \
     creole \
     wikicloth \
     org-ruby \
